@@ -58,3 +58,8 @@ Lancer les seeders avec un jeu de données (deux utilisateurs et deux todos, les
 Lancer le projet : `php artisan serve`
 
 Le projet est prêt vous pouvez maintenant utiliser l'api via Postman ou Insomnia ! 🎉
+
+## 📡 Requêtes API
+
+Le jeu de requêtes (Insomnia) est disponible à la racine du projet : `insomnia.json`
+
